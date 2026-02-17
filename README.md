@@ -7,7 +7,7 @@
 Machine Learning applications for **Machine Health Monitoring**, predictive analytics, and intelligent energy optimization systems.
 
 📫 **Connect with me:**  
-LinkedIn: https://www.linkedin.com/in/siravich-umpornsrisupap-a585ab224  
+LinkedIn: https://www.linkedin.com/in/siravich-umpornsrisupap
 
 ⚡ **Fun fact:**  
 I’m a generalist who bridges business strategy and technical execution — from data pipelines to decision-making dashboards.
