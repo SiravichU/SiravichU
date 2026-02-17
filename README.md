@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @SiravichU
-- 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine learning for Machine Health Monitoring Index
-- 📫 How to reach me https://www.linkedin.com/in/siravich-umpornsrisupap-a585ab224
-- 😄 Pronouns: Leo
-- ⚡ Fun fact: I am a generalist
+## 👋 Hi, I'm Siravich Umpornsrisupap (Leo)
 
-<!---
-SiravichU/SiravichU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔎 **Interests:** Data Analytics | Data Engineering | Machine Learning | Energy Intelligence  
+📊 Passionate about building data-driven platforms that turn complex industrial and energy data into actionable insights.  
+
+🤝 **Looking to collaborate on:**  
+Machine Learning applications for **Machine Health Monitoring**, predictive analytics, and intelligent energy optimization systems.
+
+📫 **Connect with me:**  
+LinkedIn: https://www.linkedin.com/in/siravich-umpornsrisupap-a585ab224  
+
+⚡ **Fun fact:**  
+I’m a generalist who bridges business strategy and technical execution — from data pipelines to decision-making dashboards.
